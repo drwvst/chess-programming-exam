@@ -8,7 +8,6 @@ package chess;
  */
 public class ChessBoard {
 
-
     public ChessBoard() {
         
     }
